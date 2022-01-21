@@ -1,5 +1,3 @@
-
-
 # Myworkspace
 
 This project was generated using [Nx](https://nx.dev).
@@ -69,7 +67,7 @@ Run `ng build my-app` to build the project. The build artifacts will be stored i
 
 ## Running unit tests
 
-Run `ng test my-app` to execute the unit tests via [Jest](https://jestjs.io).
+Run `ng test my-app` to execute the unit tests via Karma
 
 Run `nx affected:test` to execute the unit tests affected by a change.
 
@@ -86,11 +84,6 @@ Run `nx dep-graph` to see a diagram of the dependencies of your projects.
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
-
-
-
-
-
 
 ## ☁ Nx Cloud
 
