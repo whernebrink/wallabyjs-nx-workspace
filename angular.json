@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
+    "design-system": "libs/design-system",
     "site": "apps/site",
     "site-e2e": "apps/site-e2e"
   }
